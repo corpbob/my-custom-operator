@@ -1,0 +1,7 @@
+apiVersion: mycustomoperator.example.com/v1alpha1
+kind: MyCustomOperator
+metadata:
+  name: example-mycustomoperator
+spec:
+  # Add fields here
+  size: 3

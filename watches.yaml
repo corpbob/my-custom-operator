@@ -1,0 +1,5 @@
+---
+- version: v1alpha1
+  group: mycustomoperator.example.com
+  kind: MyCustomOperator
+  role: /opt/ansible/roles/mycustomoperator

@@ -1,0 +1,7 @@
+---
+# tasks file for mycustomoperator
+- set_fact:
+    hello: "Hello World"
+
+- debug:
+    var: hello
